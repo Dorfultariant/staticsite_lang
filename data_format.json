@@ -1,0 +1,187 @@
+{
+    "language": "swedish",
+    "multichoice": [
+        {
+            "level": 0,
+            "content": {
+                "questions": [
+                    "Hyvästi maailma!",
+                    "Kuinka menee?",
+                    "Opiskelen tietotekniikkaa."
+                ],
+                "options": [
+                    [
+                        "Hejdå welt!",
+                        "Hejdå världen!",
+                        "Jag talar inte svenska!",
+                        "Morgen welt!"
+                    ],
+                    [
+                        "Wie Gehts?",
+                        "Hur mår du?",
+                        "Wie geht es dir?",
+                        "Hur många hundar har du?"
+                    ],
+                    [
+                        "Jag läser datavetenskap.",
+                        "Jag studerar datavetenskap.",
+                        "Ich studiere Informatik.",
+                        "Jag studerar teknisk information."
+                    ]
+                ],
+                "answers": [
+                    "Hejdå världen!",
+                    "Hur mår du?",
+                    "Jag läser datavetenskap."
+                ]
+            }
+        },
+        {
+            "level": 1,
+            "content": {
+                "questions": [],
+                "options": [],
+                "answers": []
+            }
+        }
+    ],
+    "vocabulary": [
+        {
+            "level": -1,
+            "content": {
+                "substantive": {
+                    "finnish": [
+                        "päivä",
+                        "ilta",
+                        "koulu",
+                        "tietotekniikka",
+                        "nimi",
+                        "peli",
+                        "talo",
+                        "koti",
+                        "kaveri",
+                        "yliopisto",
+                        "piimä",
+                        "maito",
+                        "kotikalja",
+                        "olut"
+                    ],
+                    "swedish": [
+                        "dag",
+                        "kväll",
+                        "skola",
+                        "datavetenskap",
+                        "namn",
+                        "spel",
+                        "hus",
+                        "hem",
+                        "kille",
+                        "universitet",
+                        "kärnmjölk",
+                        "mjölk",
+                        "hem öl",
+                        "öl"
+                    ]
+                },
+                "verb": {
+                    "finnish": [
+                        "opiskella",
+                        "istua",
+                        "seistä",
+                        "noutaa",
+                        "syödä",
+                        "ruokkia",
+                        "juosta",
+                        "kävellä",
+                        "ohjelmoida",
+                        "lukea",
+                        "korjata",
+                        "dokumentoida",
+                        "työskennellä, käydä töissä",
+                        "tehdä töitä"
+                    ],
+                    "swedish": [
+                        "studera",
+                        "sitta",
+                        "stå",
+                        "hämta",
+                        "äta",
+                        "foder",
+                        "sikt",
+                        "promenad",
+                        "programmera",
+                        "läsa",
+                        "fixera",
+                        "dokumentera",
+                        "arbete",
+                        "att arbeta"
+                    ]
+                },
+                "adjective": {
+                    "finnish": [
+                        "korkea",
+                        "matala",
+                        "pitkä",
+                        "lyhyt",
+                        ""
+                    ],
+                    "swedish": [
+                        ""
+                    ]
+                },
+                "pronouns": {
+                    "finnish": [
+                        "minä",
+                        "sinä",
+                        "hän (mies)",
+                        "hän (nainen)",
+                        "me",
+                        "te",
+                        "he",
+                        "se"
+                    ],
+                    "swedish": [
+                        "jag",
+                        "du",
+                        "han",
+                        "hon",
+                        "vi",
+                        "du",
+                        "de",
+                        "det"
+                    ]
+                }
+            }
+        },
+        {
+            "level": 0,
+            "content": {
+                "questions": [
+                    ""
+                ],
+                "answers": []
+            }
+        },
+        {
+            "level": 1,
+            "content": {
+                "questions": [],
+                "answers": []
+            }
+        }
+    ],
+    "sentence": [
+        {
+            "content": {
+                "questions": [],
+                "answers": []
+            }
+        },
+        {
+            "content": {
+                "questions": [],
+                "answers": []
+            }
+        }
+    ]
+}
